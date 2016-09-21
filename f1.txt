@@ -1,3 +1,2 @@
 Éste es el ejemplo de Jose Luis
-
-hdgfhdgfhdgfhdghdgfhdgfhdgfhdgfh
+Este es conflicto resuelto
